@@ -1,0 +1,102 @@
+body{
+    background-color: cyan;
+}
+.img1{
+    text-align: center;
+
+
+}
+h1{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    color: red;
+    border-bottom: darkcyan;
+}
+h2{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
+.p1{
+    text-align: center;
+    font-size: xx-large;
+}
+.navbar{
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+    color: red;
+    padding: 10px;
+    padding: 10px;
+    border: 5px solid yellow;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    list-style: none;
+    color: black;
+    text-decoration: none;
+    background-color: green;
+}
+.navbar2{
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+    color: red;
+    padding: 10px;
+    border: 5px solid yellow;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    list-style: none;
+    color: black;
+    text-decoration: none;
+    background-color: green;
+}
+.navbar3{
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+    color: red;
+    padding: 10px;
+    border: 5px solid yellow;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    list-style: none;
+    color: black;
+    text-decoration: none;
+    background-color: green;
+   
+
+
+
+
+}
+.navbar4{
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+    color: red;
+    padding: 10px;
+    border: 5px solid yellow;
+    text-align: center;
+    justify-content: center;
+    display:flex;
+    list-style:none;
+    text-decoration:none;
+    background-color: green;
+   
+}
+.div1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+.navbar :hover{
+    background-color: chartreuse;
+}
+.navbar2 :hover{
+    background-color: chartreuse;
+}
+.navbar3 :hover{
+    background-color: chartreuse;
+}
+.navbar4 :hover{
+    background-color: chartreuse;
+}
